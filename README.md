@@ -9,6 +9,7 @@ you can install it via pip:
 ## Versions
 1. Released Versions
    - 1.0.10
+   - 1.0.11
    - 
 2. Developer (Insider Versions) (Not avaliable in PyPI)
    - 0.1.0
@@ -59,3 +60,16 @@ you can install it via pip:
    - 1.0.10b3
    - 1.0.10rc1
    - 1.0.11a1
+   - 1.0.11b1
+   - 1.0.11rc1
+   - 1.0.12a1
+   - 
+  
+3. Developing version:
+   - 1.0.12a2
+   - 1.0.13a0
+   - 1.1.0a0
+  
+4. The news from the devs at FastHelp Dev Centre:
+   - From 1.1.0, the FastHelp Dev Team will be taking full control of fasthelp, previously, it was maintained by JDT (JVSCode Developement team).
+   - We are proud to annouce a new partnership with the ElectroBL team!
