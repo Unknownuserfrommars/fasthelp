@@ -1,37 +1,3 @@
-# FastHelp
-
-A fast, useful helper in Python. It just makes things much faster.
-
-> I love FastHelp! It's really useful, You see
-> -- The Founder of JVSC, leading dev of FastHelp
-
-## Installation
-
-You can install fasthelp using pip:
-
-`pip install fasthelp`
-
-## Dependencies
-
-- NumPy >= 1.26
-- Pandas >= 2.2
-
-## Usage
-
-`import fasthelp as fh`
-fh is the common alias for FastHelp
-
-### Changelog (Since 1.0.12)
-- 1.0.13: Added `CHelper`, `JavaHelper`, `JSHelper`, `RHelper`, `FolderHelper` and `IDEHelper`
-- 1.0.12: Insider Release. Bug fixes
-
-## Version
-FastHelp 1.0.13
-
-## License
-This project is licensed under the MIT License:
-
-
 MIT License
 
 Copyright (c) 2024 ZIYAN ZHOU
