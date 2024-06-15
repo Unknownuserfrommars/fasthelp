@@ -70,12 +70,14 @@ you can install it via pip:
    - 1.0.12
    - 1.0.13a1
    - 1.0.13a2
+   - 1.0.13a3
+   - 1.0.13b1
   
 3. Developing version:
-   - 1.0.13a3
+   - 1.0.13
    - 1.1.0a1
   
 4. The news from the devs at FastHelp Dev Centre:
    - From 1.1.0, the FastHelp Dev Team will be taking full control of fasthelp, previously (currently), it was maintained by JDT (JVSCode Developement team).
    - We are proud to annouce a new partnership with the ElectroBL team!
-   - Delayed First release of 1.0.13 (HUGE Updates! More / Better file support)
+   - Delayed First release of 1.0.13 (HUGE Updates! More / Better file support). We are rushing thru the testing & implementations :)
