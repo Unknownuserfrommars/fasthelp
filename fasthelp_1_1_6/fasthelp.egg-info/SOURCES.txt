@@ -1,0 +1,11 @@
+License.md
+README.md
+fasthelp.py
+gpuinfo.py
+setup.cfg
+setup.py
+fasthelp.egg-info/PKG-INFO
+fasthelp.egg-info/SOURCES.txt
+fasthelp.egg-info/dependency_links.txt
+fasthelp.egg-info/requires.txt
+fasthelp.egg-info/top_level.txt
