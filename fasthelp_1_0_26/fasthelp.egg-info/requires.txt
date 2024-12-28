@@ -1,6 +1,0 @@
-numpy>=1.26
-pandas>=2.2
-
-[dev]
-pytest
-black
